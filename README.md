@@ -1,7 +1,7 @@
 # Psychopy-Coder
 Here I provide some fun and useful codes for Psychopy Coder, note that they can be used also in Builder, but total focus is on Coder
 
-#Screen.py
+# Screen.py
 This code is designed to detect the number of monitors connected to the system and create a window on the primary monitor.
 The code uses the screeninfo library to detect the number of monitors and their dimensions. 
 If a single monitor is detected, the code uses the dimensions of that monitor to create a window. 
